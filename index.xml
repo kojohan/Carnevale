@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.01" name="Carnevale" indexUrl="https://github.com/kojohan/Carnevale" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Carnevale.gstz" dataType="gamesystem" dataId="d92c-f139-ced0-7805" dataName="Carnevale" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="The_Doctors.catz" dataType="catalogue" dataId="5784-9a60-40a4-1bcb" dataName="The_Doctors" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="The_Patricians.catz" dataType="catalogue" dataId="544d-db3d-de73-ac9f" dataName="The_Patricians" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="The_Guild.catz" dataType="catalogue" dataId="7a3b-972c-d6c7-e2f7" dataName="The_Guild" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Rashaar.catz" dataType="catalogue" dataId="ae2c-c2a7-5471-f4ae" dataName="Rashaar" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="The_Vatican.catz" dataType="catalogue" dataId="f9e8-6925-cac0-69db" dataName="The_Vatican" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Strigoi.catz" dataType="catalogue" dataId="4999-1a21-2206-5ab6" dataName="Strigoi" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Gifted.catz" dataType="catalogue" dataId="680b-ddc1-8e64-df34" dataName="Gifted" dataBattleScribeVersion="2.01" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
